@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="JRLab2A" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Sebastian\\Desktop\\Lab1\\Lab1B\\obj\\Release\\netcoreapp2\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="Lab1B.Data.ApplicationDbContext" description="" value="Data Source=tcp:jrlab2adbserver.database.windows.net,1433;Initial Catalog=JRLab2ADB;User Id=jr@jrlab2adbserver;Password=Mono1010" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\Sebastian\\Desktop\\Lab1\\Lab1B\\obj\\Release\\netcoreapp2\.0\\PubTmp\\EFSQLScripts\\Lab1B\.Data\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

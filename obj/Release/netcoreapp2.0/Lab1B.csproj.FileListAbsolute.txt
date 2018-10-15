@@ -1,0 +1,12 @@
+C:\Users\Sebastian\Desktop\Lab1\Lab1B\bin\Release\netcoreapp2.0\Lab1B.deps.json
+C:\Users\Sebastian\Desktop\Lab1\Lab1B\bin\Release\netcoreapp2.0\Lab1B.runtimeconfig.json
+C:\Users\Sebastian\Desktop\Lab1\Lab1B\bin\Release\netcoreapp2.0\Lab1B.runtimeconfig.dev.json
+C:\Users\Sebastian\Desktop\Lab1\Lab1B\bin\Release\netcoreapp2.0\Lab1B.dll
+C:\Users\Sebastian\Desktop\Lab1\Lab1B\bin\Release\netcoreapp2.0\Lab1B.pdb
+C:\Users\Sebastian\Desktop\Lab1\Lab1B\obj\Release\netcoreapp2.0\Lab1B.csprojAssemblyReference.cache
+C:\Users\Sebastian\Desktop\Lab1\Lab1B\obj\Release\netcoreapp2.0\Lab1B.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Lab1\Lab1B\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Sebastian\Desktop\Lab1\Lab1B\obj\Release\netcoreapp2.0\Lab1B.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\Lab1\Lab1B\obj\Release\netcoreapp2.0\Lab1B.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\Lab1\Lab1B\obj\Release\netcoreapp2.0\Lab1B.dll
+C:\Users\Sebastian\Desktop\Lab1\Lab1B\obj\Release\netcoreapp2.0\Lab1B.pdb
